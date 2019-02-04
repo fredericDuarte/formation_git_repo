@@ -1,1 +1,1 @@
-https://www.astrapi.com/wp-content/uploads/sites/31/2011/10/blague-6.jpg
+![blague-6.jpg](![blague-6.jpg](https://www.astrapi.com/wp-content/uploads/sites/31/2011/10/blague-6.jpg))
