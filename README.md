@@ -6,10 +6,10 @@
 
 ## Farda
 1. [Aliment](https://github.com/fredericDuarte/formation_git_repo/blob/master/src/blague_farda_1.md)
-2. [Lampe](https://github.com/fredericDuarte/formation_git_repo/blob/blagueF/src/blague2.md)
-3. [Docteur](https://github.com/fredericDuarte/formation_git_repo/blob/blagueF/src/blague3.md)
+2. [Lampe](https://github.com/fredericDuarte/formation_git_repo/blob/formatage/src/blague_farda_2.md)
+3. [Docteur](https://github.com/fredericDuarte/formation_git_repo/blob/formatage/src/blague_farda_3.md)
 
 ## Frédéric
 1. [Toto](https://github.com/fredericDuarte/formation_git_repo/blob/formatage/src/blague_fred_1.md)
-2. [Blege](https://github.com/fredericDuarte/formation_git_repo/blob/last-blagues/src/blague_fred_2.md)
+2. [Belge](https://github.com/fredericDuarte/formation_git_repo/blob/last-blagues/src/blague_fred_2.md)
 3. [Star Wars](https://github.com/fredericDuarte/formation_git_repo/blob/last-blagues/src/blague_fred_3.md)
